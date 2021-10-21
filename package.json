@@ -1,6 +1,6 @@
 {
   "name": "whatssiri-npm",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "NPM Package for WhatsSiri",
   "main": "src/stack.js",
   "directories": {
