@@ -1,7 +1,7 @@
 {
   "name": "whatssiri-npm",
   "version": "1.0.0",
-  "description": "NPM Package for WhatsSiri",
+  "description": "NPM Package for WhatsOwen",
   "main": "src/stack.js",
   "directories": {
     "lib": "lib"
@@ -16,7 +16,7 @@
   "author": "ByMisakiMey",
   "license": "GNU",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.4.1",
+    "@adiwajshing/baileys": "^3.5.2",
     "network-speed": "2.1.1",
     "@octokit/core": "3.5.1",
     "translatte": "3.0.1",
