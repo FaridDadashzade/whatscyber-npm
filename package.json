@@ -1,7 +1,7 @@
 {
-  "name": "whatssiri-npm",
+  "name": "whatscyber-npm",
   "version": "1.0.0",
-  "description": "NPM Package for WhatsOwen",
+  "description": "NPM Package for WhatsCyber",
   "main": "src/stack.js",
   "directories": {
     "lib": "lib"
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ByMisakiMey/whatssiri-npm.git"
+    "url": "git+https://github.com/CyberUserBot/whatscyber-npm.git"
   },
-  "author": "ByMisakiMey",
+  "author": "FaridDadashzade",
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
@@ -67,7 +67,7 @@
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/ByMisakiMey/WhatsSiri/issues"
+    "url": "https://github.com/FaridDadashzade/WhatsCyber/issues"
   },
-  "homepage": "https://github.com/ByMisakiMey/WhatsSiri#readme"
+  "homepage": "https://github.com/FaridDadashzade/WhatsCyber#readme"
 }
